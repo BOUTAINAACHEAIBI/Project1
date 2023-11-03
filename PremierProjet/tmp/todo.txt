@@ -1,2 +1,2 @@
 ‘’ajout du fichier .gitignore’’
-$ echo « ajout du fichier .gitignore » -> todo.txt
+$ echo « ajout du fichier .gitignore » >> todo.txt

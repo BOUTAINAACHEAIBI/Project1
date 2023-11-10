@@ -1,3 +1,0 @@
-input(quel le votre nom ?)
-input(quel votre age ?)
-print("mon nom est jamal, ""j'ai 30 ans")
